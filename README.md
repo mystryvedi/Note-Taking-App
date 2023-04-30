@@ -31,15 +31,12 @@ open index.html
 - CSS
 - JavaScript
 
-## Demo
-
-You can see a live demo of the Note Taking App [here](https://mystryvedi.github.io/Note-Taking-App/).
 
 ## Screenshots
 
 Here is a preview of the application interface:
 
-![Screenshot of Note Taking App](https://user-images.githubusercontent.com/115182741/137109233-3c174d2a-527c-4745-b6b8-ba91a797fda9.png)
+![Screenshot of Note Taking App](https://user-images.githubusercontent.com/115182741/235348523-106557a9-856b-4b9c-b854-69cfa65f4894.png)
 
 ## Credits
 
