@@ -49,3 +49,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Feedback and Contributions
 
 If you have any feedback or suggestions for this project, please feel free to [contact me](mailto:gyaptitrivedi20004@gmail.com) or submit a pull request. I welcome any contributions or improvements to the project.
+
